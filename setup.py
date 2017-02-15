@@ -16,6 +16,7 @@ setup(
     name='tlstk',
     version='0.0',
     description='TLS ToolKit for Python and CLI',
+    keywords='tls ssl rsa dh dhe ec ecdhe pem der pkcs pki x509 certificate cryptography',
     url='https://github.com/cniemira/tlstk',
     author='CJ Niemira',
     author_email='siege@siege.org',
